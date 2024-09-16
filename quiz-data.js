@@ -119,15 +119,15 @@ export const questions = {
     round3: {
         1: {
             "question": "Identify the marked elements?",
-            "path": "/Images/question1.jpg"
+            "path": "Images/question1.jpg"
         },
         2: {
             "question": "Write the type of Combution of the following on the basis of spontaneous, rapid and expolosive combustions?",
-            "path": "/Images/question2.jpg"
+            "path": "Images/question2.jpg"
         },
         3: {
             "question": "Identify the lab equipments?",
-            "path": "/Images/question3.jpg"
+            "path": "Images/question3.jpg"
         },
     },
     round4: {
