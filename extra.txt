@@ -1,0 +1,209 @@
+export const questions = {
+    round1: {
+        0: {},
+        1: {
+            "question": "Choose the Incorrect Statement about Dalton's Atomic Theory",
+            "options": {
+                "A": "Compounds are formed when atoms of different elements combine in any ratio.",
+                "B": "Matter consists of indivisible atoms.",
+                "C": "Chemical reactions involve reorganization of atoms",
+                "D": "All the atoms of a given element have identical properties including identical mass."
+            }
+        },
+        2: {
+            "question": "What is the hybridization of the central atom in methane (CH₄)?",
+            "options": {
+                "A": "sp",
+                "B": "sp²",
+                "C": "sp³",
+                "D": "dsp³"
+            }
+        },
+        3: {
+            "question": "Which of the following is a strong acid?",
+            "options": {
+                "A": "HCl",
+                "B": "CH₃COOH",
+                "C": "NH₄OH",
+                "D": "H₂O"
+            }
+        },
+        4: {
+            "question": "What is the molecular geometry of sulfur hexafluoride (SF₆)?",
+            "options": {
+                "A": "Square planar",
+                "B": "Trigonal planar",
+                "C": "Tetrahedral",
+                "D": "Octahedral"
+            }
+        },
+        5: {
+            "question": "Which of the following processes is exothermic?",
+            "options": {
+                "A": "Melting of ice",
+                "B": "Evaporation of water",
+                "C": "Combustion of methane",
+                "D": "Sublimation of dry ice"
+            }
+        },
+        6: {
+            "question": "What is the standard enthalpy change (ΔH) for a reaction when bonds are formed?",
+            "options": {
+                "A": "Positive",
+                "B": "Negative",
+                "C": "Zero",
+                "D": "Cannot be determined"
+            }
+        },
+        7: {
+            "question": "In a redox reaction, which species undergoes reduction?",
+            "options": {
+                "A": "The one that loses electrons",
+                "B": "The one that gains electrons",
+                "C": "The one that gains protons",
+                "D": "The one that loses protons"
+            }
+        },
+        8: {
+            "question": "Which of the following compounds will have the highest boiling point?",
+            "options": {
+                "A": "CH₄",
+                "B": "C₂H₆",
+                "C": "C₃H₈",
+                "D": "C₄H₁₀"
+            }
+        },
+        9: {
+            "question": "The rate of a chemical reaction depends on all of the following except:",
+            "options": {
+                "A": "Temperature",
+                "B": "Concentration of reactants",
+                "C": "Nature of reactants",
+                "D": "Pressure of the product"
+            }
+        },
+        10: {
+            "question": "Which of the following is NOT a postulate of Dalton's Atomic Theory?",
+            "options": {
+                "A": "Atoms are indivisible",
+                "B": "Atoms of different elements are identical",
+                "C": "Atoms combine in fixed ratios to form compounds",
+                "D": "Atoms cannot be created or destroyed"
+            }
+        },
+        11: {
+            "question": "Which of the following is NOT a postulate of Dalton's Atomic Theory?",
+            "options": {
+                "A": "Atoms are indivisible",
+                "B": "Atoms of different elements are identical",
+                "C": "Atoms combine in fixed ratios to form compounds",
+                "D": "Atoms cannot be created or destroyed"
+            }
+        },
+        12: {
+            "question": "Which of the following is NOT a postulate of Dalton's Atomic Theory?",
+            "options": {
+                "A": "Atoms are indivisible",
+                "B": "Atoms of different elements are identical",
+                "C": "Atoms combine in fixed ratios to form compounds",
+                "D": "Atoms cannot be created or destroyed"
+            }
+        },
+        13: {
+            "question": "Which of the following is NOT a postulate of Dalton's Atomic Theory?",
+            "options": {
+                "A": "Atoms are indivisible",
+                "B": "Atoms of different elements are identical",
+                "C": "Atoms combine in fixed ratios to form compounds",
+                "D": "Atoms cannot be created or destroyed"
+            }
+        },
+    },
+    round2: {
+        0: {},
+        1: {
+            "question": "Complete The Reaction",
+            "reaction": "\\[2 \\, \\text{C}_{6}\\text{H}_{5}\\text{CHO} + \\text{NaOH} \\longrightarrow \\text{C}_{6}\\text{H}_{5}\\text{CH}_2\\text{OH} + \\text{C}_{6}\\text{H}_{5}\\text{COO}^-\\]"
+        },
+        2: {
+            "question": "What is the product of the following reaction?",
+            "reaction": "\\[\\text{CH}_3\\text{CH}_2\\text{OH} + \\text{CrO}_3 \\longrightarrow ?\\]"
+        },
+        3: {
+            "question": "Predict the product of this Diels-Alder reaction",
+            "reaction": "\\[\\text{1,3-Butadiene} + \\text{Ethene} \\longrightarrow ?\\]"
+        },
+        4: {
+            "question": "Complete The Reaction",
+            "reaction": "\\[\\text{CH}_3\\text{COOH} + \\text{C}_2\\text{H}_5\\text{OH} \\xrightarrow{\\text{H}^+} ?\\]"
+        },
+        5: {
+            "question": "Balance the following reaction",
+            "reaction": "\\[\\text{C}_6\\text{H}_{12}\\text{O}_6 + \\text{O}_2 \\longrightarrow \\text{CO}_2 + \\text{H}_2\\text{O}\\]"
+        },
+        6: {
+            "question": "Complete The Reaction",
+            "reaction": "\\[\\text{CH}_3\\text{MgBr} + \\text{CO}_2 \\xrightarrow{\\text{H}^+/H_2O} ?\\]"
+        },
+        7: {
+            "question": "What are the products of this aldol condensation reaction?",
+            "reaction": "\\[\\text{CH}_3\\text{CH}_O + \\text{CH}_3\\text{CH}_O \\xrightarrow{\\text{NaOH}} ?\\]"
+        },
+        8: {
+            "question": "Predict the product of the following Friedel-Crafts alkylation",
+            "reaction": "\\[\\text{C}_6\\text{H}_6 + \\text{CH}_3\\text{Cl} \\xrightarrow{\\text{AlCl}_3} ?\\]"
+        },
+        9: {
+            "question": "What is the result of this nitration reaction?",
+            "reaction": "\\[\\text{C}_6\\text{H}_6 + \\text{HNO}_3 \\xrightarrow{\\text{H}_2\\text{SO}_4} ?\\]"
+        },
+        10: {
+            "question": "Complete the following reaction",
+            "reaction": "\\[\\text{C}_2\\text{H}_5\\text{OH} + \\text{H}_2\\text{SO}_4 \\xrightarrow{\\Delta} ?\\]"
+        }
+    },
+    round3: {
+        1: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        2: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        3: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        4: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        5: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        6: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        7: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        8: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        9: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        },
+        10: {
+            "question": "Guess The Reaction",
+            "path": "/Images/FlameTest.webp"
+        }
+    }
+}
+
+
